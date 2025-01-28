@@ -1,0 +1,13 @@
+<style>
+&{
+  background:linear-gradient(90deg,#D08825 141px,#2D3464 0 259px,#D08825 0);
+  *{background:linear-gradient(90deg,#FADE8B 130px,#2D3464 0 200px,#FADE8B 0 330px,#2D3464 0);
+    margin:85 0
+}
+</style><style>
+&{
+  background:linear-gradient(90deg,#D08825 141px,#2D3464 0 259px,#D08825 0);
+  *{background:linear-gradient(90deg,#FADE8B 130px,#2D3464 0 200px,#FADE8B 0 330px,#2D3464 0);
+    margin:85 0
+}
+</style>
