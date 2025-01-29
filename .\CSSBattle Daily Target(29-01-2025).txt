@@ -1,0 +1,35 @@
+<p><style>
+&{
+  background:linear-gradient(#FADE8B 150px,#61A74E 0 190px,#FADE8B 0);
+*{
+  background:#61A74E;
+  border-radius:0 0 150px 150px;
+  margin:150 80 30 80
+}
+}
+  p{
+    position:fixed;
+    background:#61A74E;
+    border-radius:50%;
+    padding:40;
+    margin:-80 40;
+    border:40px solid#FADE8B
+  }
+</style><p><style>
+&{
+  background:linear-gradient(#FADE8B 150px,#61A74E 0 190px,#FADE8B 0);
+*{
+  background:#61A74E;
+  border-radius:0 0 150px 150px;
+  margin:150 80 30 80
+}
+}
+  p{
+    position:fixed;
+    background:#61A74E;
+    border-radius:50%;
+    padding:40;
+    margin:-80 40;
+    border:40px solid#FADE8B
+  }
+</style>
