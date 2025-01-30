@@ -1,0 +1,25 @@
+<p><p><p a><p b><p c>
+<style>
+*{
+  background:radial-gradient(1q,#4B4D88 0 50px,#5AED9C)
+  }
+p{
+position:fixed;
+padding:15 30;
+border-radius:1in;
+margin:127 66;
+transform-origin:210%
+}
+p+p{
+  rotate:90deg
+}
+[a]{
+  rotate:45deg
+}
+[b]{
+  rotate:135deg
+}
+[c]{
+  rotate:180deg
+}
+</script>
