@@ -1,0 +1,25 @@
+<p><p><p a><p b>
+<style>
+&{
+background:#9076D8;
+*{
+background:#F5E3B5;
+margin:60 160 0
+}
+p{
+position:fixed;
+border-bottom:40px solid #9076D8;
+border-left:40px solid transparent;
+border-right:40px solid transparent;
+margin:0
+}
+p+p{
+margin:40 0
+}
+[b]{
+margin:160 0
+}
+[a]{
+margin:200 0
+}
+</style>
