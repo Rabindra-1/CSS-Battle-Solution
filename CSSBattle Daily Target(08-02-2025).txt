@@ -1,0 +1,9 @@
+<style>
+  &{
+    background:radial-gradient(1q,#EDECC1 75px,#CC5252 0 125px,#EDECC1);
+    *{
+      background:#CC5252;
+      margin:125 90;
+      rotate:-30deg;
+    }
+  }
