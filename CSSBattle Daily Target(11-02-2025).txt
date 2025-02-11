@@ -1,0 +1,22 @@
+<p><p><style>
+*{
+  background:#FBFDB7;
+  border-inline:60px solid#46BA67;
+  margin:0 60;
+  *{
+    background:#46BA67;
+    rotate:90deg;
+    margin:50;
+    border:none
+  }
+} 
+  p{
+    position:fixed;
+    background:#D95362;
+    margin:-100 -120;
+    padding:90 30;
+  }
+  p+p{
+    margin:120
+  }
+</style>
