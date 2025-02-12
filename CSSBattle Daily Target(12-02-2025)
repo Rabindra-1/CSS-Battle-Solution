@@ -1,0 +1,16 @@
+<p><style>
+*{
+  background:#343D42;
+  border-bottom:40px solid#7C87D1;
+  margin:90;
+  +*{
+    background:#7C87D1;
+    border-radius:2in 2in 0 0;
+    margin:-50 0 20;}
+    p{
+      padding:47.5 20;
+      margin:35 90;
+      position:fixed;
+      background:#343D42
+}}
+    </style>
