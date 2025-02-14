@@ -1,0 +1,22 @@
+<p><a>
+<style>
+*{
+background:#75CF34;
+*{
+margin:80 140;
+background:#963032
+}
+p{
+padding:10;
+margin:20 50;
+background:#75CF34;
+box-shadow:0 127q,63q 0,-63q 0,-63q 127q,63q 127q;
+color:#75CF34
+}
+a{
+position:fixed;
+padding:10 60;
+margin:50 -60;
+background:#75CF34
+}
+</style>
