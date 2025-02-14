@@ -20,3 +20,27 @@ margin:50 -60;
 background:#75CF34
 }
 </style>
+
+
+
+#Alternate Solution
+
+<p><style>
+  *{
+    background:#75CF34;
+    *{
+      background:#963032;
+      margin:100 140 160;
+      box-shadow:0 60px;
+      color:#963032
+    }
+  }
+ p{
+   background:#963032;
+   position:fixed;
+   padding:20;
+   margin:-20 10;
+   box-shadow:60px 0;
+   -webkit-box-reflect:below 60px
+ } 
+</style>
