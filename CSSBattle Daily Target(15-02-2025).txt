@@ -1,0 +1,20 @@
+<p><p><style>
+*{
+  background:#FADE8B;
+  +*{
+    background:#61A74E;
+    margin:14 100
+  }
+}
+  p{
+    position:fixed;
+    background:#61A74E;
+    padding:70 120;
+    margin:200 -20
+  }
+  p+p{
+    background:#FADE8B;
+    margin:155 80;
+    padding:24q 20
+  }
+</style>
