@@ -1,0 +1,15 @@
+<p><style>
+*{
+  background:linear-gradient(90deg,#96551A 130px,#EA9A52 0 270px,#96551A 0);
+  +*{
+    background:#96551A;
+    margin:115 165;
+  }
+  p{
+    position:fixed;
+    padding:10 70;
+    margin:25 -35;
+    background:#96551A
+  }
+}  
+</style>
