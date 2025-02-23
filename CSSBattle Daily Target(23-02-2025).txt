@@ -1,0 +1,9 @@
+<p><style>
+&{background:linear-gradient(90deg,#EAC049 110px,#51A499 0 290px,#EAC049 0)}
+p{
+padding:12.5 91;
+margin:50;
+background:#EAC049;
+box-shadow:0 50px,0 125px,0 175px;
+color:EAC049;
+</style>
